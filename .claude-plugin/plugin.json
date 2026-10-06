@@ -1,0 +1,11 @@
+{
+  "name": "diagram-pane",
+  "version": "0.1.0",
+  "description": "Claude が書き出したフロー図・比較表をターミナルのペインに描く。/diagram on で図解モード",
+  "author": { "name": "Sora Akagami" },
+  "homepage": "https://github.com/Akagamisora/diagram-pane",
+  "repository": "https://github.com/Akagamisora/diagram-pane",
+  "license": "MIT",
+  "keywords": ["diagram", "pane", "mod", "output-style"],
+  "types": "./types/index.d.ts"
+}

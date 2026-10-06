@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "diagram-pane",
+  "description": "diagram-pane: Claude の説明をターミナルのペインで図にする",
+  "owner": { "name": "Sora Akagami" },
+  "plugins": [
+    {
+      "name": "diagram-pane",
+      "description": "Claude が書き出したフロー図・比較表をターミナルのペインに描く。/diagram on で図解モード",
+      "source": "./",
+      "homepage": "https://github.com/Akagamisora/diagram-pane",
+      "repository": "https://github.com/Akagamisora/diagram-pane",
+      "license": "MIT"
+    }
+  ]
+}
